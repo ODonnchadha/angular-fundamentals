@@ -1,2 +1,4 @@
-# angular-fundamentals
-Culled from a Pluralsight class entitled "Angular Fundamentals" by JIM COOPER &amp; JOE EAMES
+## Angular Fundamentals by JIM COOPER & JOE EAMES
+
+- GETTING STARTED:
+    - Angular 14.
